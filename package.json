@@ -1,0 +1,23 @@
+{
+  "name": "nio-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "nio-portfolio",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "buildWithPrefix": "gatsby build --prefix-paths",
+    "serve": "gatsby serve",
+    "serveWithPrefix": "gatsby serve --prefix-paths",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
